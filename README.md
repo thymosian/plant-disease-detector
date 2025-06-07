@@ -7,7 +7,7 @@ A deep learning-based tool for detecting plant diseases from leaf images. Upload
 ---
 
 ## 🎬 Demo
-![App Demo](https://raw.githubusercontent.com/thymosian/plant-disease-detector/main/assets/demo.gif)
+![App Demo](assets/demo.gif)
 
 
 > A short screen recording showing how to upload a leaf image and get results instantly.
