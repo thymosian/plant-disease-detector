@@ -6,14 +6,6 @@ A deep learning-based tool for detecting plant diseases from leaf images. Upload
 
 ---
 
-## 🎬 Demo
-
-![App Demo](assets/demo_clean.gif)
-
-> A short screen recording showing how to upload a leaf image and get results instantly.
-
----
-
 ## 🚀 Features
 
 - **Model:** Fine-tuned ResNet18, trained on 15 plant disease classes.
