@@ -8,7 +8,7 @@ A deep learning-based tool for detecting plant diseases from leaf images. Upload
 
 ## 🎬 Demo
 
-![App Demo](assets/demo.gif)
+![App Demo](assets/demo_clean.gif)
 
 > A short screen recording showing how to upload a leaf image and get results instantly.
 
