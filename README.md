@@ -2,6 +2,16 @@
 
 A deep learning-based tool for detecting plant diseases from leaf images. Upload a photo of a plant leaf and get an instant diagnosis using a fine-tuned ResNet18 model.
 
+🌐 **Live App**: [https://thymosian-plant-disease-detector-streamlit-app-4xnfqg.streamlit.app/](https://thymosian-plant-disease-detector-streamlit-app-4xnfqg.streamlit.app/)
+
+---
+
+## 🎬 Demo
+
+![App Demo](assets/demo.gif)
+
+> A short screen recording showing how to upload a leaf image and get results instantly.
+
 ---
 
 ## 🚀 Features
